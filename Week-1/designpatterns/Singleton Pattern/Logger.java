@@ -1,10 +1,4 @@
-/**
- * Logger.java
- * 
- * This class implements the Singleton Design Pattern.
- * Ensures only one instance of Logger is used throughout the application
- * lifecycle.
- */
+
 public class Logger {
     // Step 1: Private static instance with volatile for thread safety
     private static volatile Logger instance;
@@ -17,7 +11,7 @@ public class Logger {
     // Step 3: Public static method to return the singleton instance
     public static Logger getInstance() {
         if (instance == null) {
-            // Synchronized block to ensure only one thread creates the instance
+
             synchronized (Logger.class) {
                 if (instance == null) {
                     instance = new Logger();

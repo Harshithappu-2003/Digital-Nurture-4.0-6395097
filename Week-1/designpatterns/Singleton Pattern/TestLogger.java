@@ -1,9 +1,4 @@
-/**
- * TestLogger.java
- * 
- * This class tests the Logger Singleton implementation.
- * It verifies that only one instance is used across the application.
- */
+
 public class TestLogger {
     public static void main(String[] args) {
         // Get logger instances
