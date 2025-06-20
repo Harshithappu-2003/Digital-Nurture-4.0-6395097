@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "Week-1\\designpatterns\\Factory Method Pattern",
+        "Week-1\\designpatterns\\Singleton Pattern"
+    ],
+    "java.project.referencedLibraries": []
+}
