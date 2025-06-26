@@ -1,0 +1,15 @@
+# Created at 2025-06-27T01:48:01.632
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.058s][warning][cds] This file is not the one used while building the shared archive file: C:'.
+
+# Created at 2025-06-27T01:48:01.635
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '\Users\harshith\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\latest\lib\modules'.
+
+# Created at 2025-06-27T01:48:01.636
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.058s][warning][cds] This file is not the one used while building the shared archive file: C:'.
+
+# Created at 2025-06-27T01:48:01.637
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '\Users\harshith\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\latest\lib\modules'.
+
+# Created at 2025-06-27T01:48:01.638
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.058s][warning][cds] C:\Users\harshith\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\latest\lib\modules size has changed.'.
+
