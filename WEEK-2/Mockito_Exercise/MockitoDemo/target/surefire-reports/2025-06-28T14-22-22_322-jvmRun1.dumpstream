@@ -1,0 +1,9 @@
+# Created at 2025-06-28T14:22:24.231
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0.042s][warning][cds] This file is not the one used while building the shared archive file: C:\Users\harshith\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\latest\lib\modules'.
+
+# Created at 2025-06-28T14:22:24.234
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0.042s][warning][cds] This file is not the one used while building the shared archive file: C:\Users\harshith\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\latest\lib\modules'.
+
+# Created at 2025-06-28T14:22:25.155
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0.042s][warning][cds] C:\Users\harshith\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\latest\lib\modules size has changed.'.
+
