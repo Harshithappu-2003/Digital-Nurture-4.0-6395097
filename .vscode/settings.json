@@ -4,5 +4,35 @@
         "Week-1\\designpatterns\\Factory Method Pattern",
         "Week-1\\designpatterns\\Singleton Pattern"
     ],
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MariaDB",
+            "name": "MyLocalMySQL",
+            "database": "ormlearns",
+            "username": "root",
+            "password": "dbms"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MyLocalMySQL",
+            "database": "ormlearns",
+            "username": "root",
+            "password": "dbms"
+        }
+    ]
 }
